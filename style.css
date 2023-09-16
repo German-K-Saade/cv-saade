@@ -37,14 +37,13 @@ header {
 .cv img{
     width: 100%;
     max-width: 800px;
-    min-width: 400px;   
+    min-width: 300px;   
     display: flex;
 
 }
 
 .cursos img{
     width: 80%;
-    height: 500px;
     margin-top: 10px;
     display: flex;
     align-items: center;
