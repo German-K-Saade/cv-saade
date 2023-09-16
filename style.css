@@ -35,8 +35,11 @@ header {
 }
 
 .cv img{
-    margin: auto;
+    width: 100%;
+    max-width: 800px;
+    min-width: 400px;   
     display: flex;
+
 }
 
 .cursos img{
